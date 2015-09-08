@@ -1,6 +1,6 @@
 Package: validateR
 Type: Package
-Title: Reliability and validity analyses in R
+Title: Psychometric validity and reliability statistics in R
 Version: 0.1.0
 Authors@R: person("Christopher", "Desjardins", email = "cddesjardins@gmail.com", role = c("aut", "cre"))
 Description: Reliability and validity analyses in R - PLACE HOLDER
