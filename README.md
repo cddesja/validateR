@@ -4,7 +4,7 @@
 
 ###Type: Package
 
-**Development version**: Under Development. 
+**Development version**: 0.1.0.
 
 This package will containing anything, and everything, that could possibly fall under the umbrella of quantitative validity or reliability measures. 
 
