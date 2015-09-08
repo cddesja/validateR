@@ -1,8 +1,8 @@
 Package: validateR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Reliability and validity analyses in R
 Version: 0.1.0
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Authors@R: person("Christopher", "Desjardins", email = "cddesjardins@gmail.com", role = c("aut", "cre"))
+Description: Reliability and validity analyses in R - PLACE HOLDER
+License: GNU GPL v3 or later
 LazyData: TRUE
