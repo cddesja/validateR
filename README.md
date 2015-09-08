@@ -4,7 +4,7 @@
 
 ###Type: Package
 
-**Development version**: 0.1.0.
+**Development version**: 0.1.0. [![Build Status](https://travis-ci.org/cddesja/validateR.svg?branch=master)](https://travis-ci.org/cddesja/validateR)
 
 This package will containing anything, and everything, that could possibly fall under the umbrella of quantitative validity or reliability measures. 
 
