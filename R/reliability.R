@@ -74,7 +74,7 @@ sem <- function(sigma, reliability){
 #' @param sigma The standard deviation of the test scores if reliablity estimates were provided
 sed <- function(sem1, sem2, type = "sem", sigma = NULL){
   if(type == "sem")
-    sed <- sqrt(sem1 + sem2)
+    sed <- sqrt(sem1^2 + sem2^2)
   if(type == "r")
     sed <- sigma * sqrt(2 - sem1 - sem2)
   return(sed)
