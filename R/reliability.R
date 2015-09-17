@@ -60,7 +60,7 @@ new_length <- function(desired, present, test_length){
 #' @param reliablity Current reliability
 #' @export
 sem <- function(sigma, reliability){
-  sem <- sigma * sqrt(1 - reliability)
+  sem <- sqrt(sigma) * sqrt(1 - reliability)
   return(sem)
 }
 
